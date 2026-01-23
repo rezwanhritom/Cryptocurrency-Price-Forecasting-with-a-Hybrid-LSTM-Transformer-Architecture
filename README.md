@@ -76,6 +76,14 @@ See the `LICENSE` file for full details.
 
 ---
 
+## Co Authors
+
+[HM Hasnain Jahangir Aqib]](https://github.com/HasnainAqib)
+
+[Nirban Roy]](https://github.com/Nirban1-1)
+
+---
+
 ## 📚 Citation (APA)
 
 If you use this work in academic or research contexts, please cite:
