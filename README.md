@@ -76,11 +76,11 @@ See the `LICENSE` file for full details.
 
 ---
 
-## Co Authors
+## 🤝 Co Authors
 
-[HM Hasnain Jahangir Aqib]](https://github.com/HasnainAqib)
+[HM Hasnain Jahangir Aqib](https://github.com/HasnainAqib)
 
-[Nirban Roy]](https://github.com/Nirban1-1)
+[Nirban Roy](https://github.com/Nirban1-1)
 
 ---
 
