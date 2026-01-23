@@ -64,7 +64,7 @@ These results highlight the effectiveness of combining recurrent and attention-b
 
 ## 📜 License
 
-This repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0** license.
+This repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
 - ✔️ Academic and research use is allowed
 
